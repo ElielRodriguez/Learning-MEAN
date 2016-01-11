@@ -1,0 +1,19 @@
+{
+  "name": "Learn-MEAN",
+  "version": "0.0.1",
+  "author": "Eliel J. Rodriguez",
+  "description": "Learnig how to use MongoDB, Express, AngularJs, NodeJs",
+  "contributors": [],
+  "main": "./server.js",
+  "keywords": [],
+  "dependencies": {
+        "express": "~3.x",
+        "mongoose": "latest"
+  },
+  "noAnalyze": true,
+  "engines": {
+    "node": ">=0.6"
+  },  
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
